@@ -6,7 +6,7 @@
 
 3) To Build:
 
-	javac -cp json-20190722.jar JsonManager.java
+	javac -cp json-20190722.jar JsonManager.java <br>
 	javac HttpManager.java
 	javac Main.java
 

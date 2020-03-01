@@ -7,7 +7,7 @@
 3) To Build:
 
 	javac -cp json-20190722.jar JsonManager.java <br>
-	javac HttpManager.java
+	javac HttpManager.java <br>
 	javac Main.java
 
 4) To run:
